@@ -24,7 +24,7 @@ public class PropertiesUtil {
 			System.out.println("值："+pro.getProperty(string));
 			System.out.println("—————————华丽的分割线——————————");
 		}
-		//创建一个文件字符输出流,追加写
+		//创建一个文件字符输出流,追加写,可以将中文字符写到文件
 //		FileWriter fw=new FileWriter("properties.txt",true);
 		
 		//创建一个文件字节输出流，非追加写
