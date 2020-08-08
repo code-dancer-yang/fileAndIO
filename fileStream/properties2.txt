@@ -1,0 +1,5 @@
+#stores data
+#Sat Aug 08 18:36:59 CST 2020
+key3=\u5434\u4EA6\u51E1
+key2=\u8521\u5F90\u5764
+key1=\u6768\u589E\u8F89
