@@ -5,6 +5,8 @@
 <head>
 <meta charset="UTF-8">
 <title>Insert title here</title>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="a.js"></script>
 </head>
 <body>
 <form action="MyHttpServlet" method="get">
